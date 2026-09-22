@@ -282,9 +282,9 @@ Conducted by **BVC COLLEGE OF ENGINEERING**
 
 ## 🌐 Languages
 
-- 🇮🇳 Telugu
-- 🇬🇧 English
-- 🇮🇳 Hindi
+-  Telugu
+-  English
+-  Hindi
 
 ---
 
